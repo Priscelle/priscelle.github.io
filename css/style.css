@@ -741,18 +741,16 @@ h3.w3-head-project {
   letter-spacing: 2px;
   font-family: "Yanone Kaffeesatz", sans-serif;
 }
+.w3-edu-info2 h4 {
+  color: #dcad3f;
+  font-size: 1.3em;
+}
 .w3-edu-info2 p {
   color: #8a8a8a;
   font-size: 1em;
   line-height: 1.8em;
   letter-spacing: 1px;
   margin: 1em 0;
-}
-i.fa.fa-users,
-i.fa.fa-code,
-i.fa.fa-laptop {
-  color: #efb636;
-  font-size: 1.5em;
 }
 .w3-edu-info-right2 p {
   color: #8a8a8a;
